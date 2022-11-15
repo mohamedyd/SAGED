@@ -1,0 +1,15 @@
+chainer
+eli5
+gensim
+graphviz
+jinja2
+matplotlib
+numpy
+optuna
+pandas
+prettytable
+requests
+scipy
+seaborn
+sklearn
+statistics
